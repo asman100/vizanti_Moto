@@ -32,7 +32,8 @@ const lengthSelector = document.getElementById("{uniqueID}_length");
 const previewImg = document.getElementById("{uniqueID}_previewimg");
 
 let frame = "";
-let sprite = "4wd";
+let sprite = "j16moto";
+//let sprite = "4wd";
 
 if(settings.hasOwnProperty("{uniqueID}")){
 	const loaded_data  = settings["{uniqueID}"];
