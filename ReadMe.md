@@ -81,4 +81,4 @@ docker run --rm -it --net=host --name vizanti-ros2 -e ROS_DOMAIN_ID=$ROS_DOMAIN_
 
 ## Contributing
 
-Please see [Contributing.md](Contributing.md) for more information.
+Please see [Contributing.md](Contributing.md) for more information. thanks.
